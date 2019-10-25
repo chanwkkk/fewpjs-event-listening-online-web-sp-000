@@ -1,5 +1,5 @@
 const input = document.getElementById('input');
-function addEventListener {
+function addEventListener() {
   alert('I was clicked!');
 }
 
